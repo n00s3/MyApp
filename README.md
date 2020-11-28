@@ -1,2 +1,7 @@
 # MyApp
-Pet Community 
+Pet Community SNS App
+
+Android Studio Java
+
+Firebase
+
